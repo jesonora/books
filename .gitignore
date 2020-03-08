@@ -6,10 +6,6 @@ __pycache__/
 # IDE
 /.idea
 
-# Migrations
-/migrations
-
-
 # C extensions
 *.so
 
